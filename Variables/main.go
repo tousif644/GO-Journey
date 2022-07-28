@@ -26,4 +26,10 @@ func main(){
 
 
 	// var is changeable const is not changeable
+
+	// formatted string
+	var name = "Tousif Tasrik"
+	fmt.Printf("Hello %v\n",name)
+
+	fmt.Printf("%d %d \n",b,e)
 }
