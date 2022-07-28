@@ -17,4 +17,13 @@ func main(){
 
 	var e int = 15
 	fmt.Println(e)
+
+	// const variables
+	const price = 100
+	fmt.Println(price)
+	// price = 200 
+	// fmt.Println(price)
+
+
+	// var is changeable const is not changeable
 }
